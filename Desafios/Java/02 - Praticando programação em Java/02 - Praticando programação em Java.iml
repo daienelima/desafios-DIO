@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/01 - Abreviando posts do blog" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02 - Conjuntos bons ou ruins" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03 - Encontre a maior substring" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04 - Entrevista embaraçosa" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05 - Validador de senhas com requisitos" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
